@@ -4,7 +4,7 @@
 [![composer.lock](https://poser.pugx.org/zencodex/flysystem-upyun/composerlock)](https://packagist.org/packages/zencodex/flysystem-upyun)
 [![License](https://poser.pugx.org/zencodex/flysystem-upyun/license)](https://packagist.org/packages/zencodex/flysystem-upyun)
 
-> 已支持到 php >= 8.2, laravel 10.x
+> 已支持到 php >= 8.0, laravel 8.x
 
 # Requirement
 
@@ -14,7 +14,7 @@
 
 直接可以通过 composer 来安装:
 ```sh
-$ composer require "zencodex/flysystem-upyun"
+$ composer require "2512422541/flysystem-upyun"
 ```
 
 # 使用
